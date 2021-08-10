@@ -18,6 +18,8 @@ node_modules/
 # Coverage
 .coverage
 
+.idea
+
 # Build
 build/*
 !/build/index.html
