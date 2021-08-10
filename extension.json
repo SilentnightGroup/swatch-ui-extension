@@ -1,0 +1,18 @@
+{
+  "id": "swatch-ui-extension",
+  "name": "swatch-ui-extension",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Symbol"
+  ],
+  "parameters" : {
+    "installation": [
+      {
+        "id": "apiEndpoint",
+        "name": "Api Endpoint",
+        "type": "Symbol",
+        "required": true
+      }
+    ]
+  }
+}
